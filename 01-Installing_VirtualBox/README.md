@@ -14,4 +14,14 @@ The first thing we need to do is go to <a href="https://www.virtualbox.org/" tar
 <br>
 <img width="463" height="123" alt="image" src="https://github.com/user-attachments/assets/fe20ac4a-9811-4fff-b96e-9c98d821817b" /><br>
 <br>
-4. 
+4. If you encouter the User Account Control (UAC) pop up, go ahead and click "Yes".<br>
+<br>
+<img width="479" height="414" alt="image" src="https://github.com/user-attachments/assets/48600e0e-ed4a-4576-890f-0fcf7f440688" /><br>
+<br>
+5. You may get an error message stating that VirtualBox needs the Microsoft Visual C++ 2019 redistributeable. If so, click <a href="differentrepo" target="_blank">Here</a> and follow the instructions. If you do not receive this error, conctinue on to step 6. <br>
+<br>
+<img width="371" height="241" alt="image" src="https://github.com/user-attachments/assets/8eba8bf9-f6da-405a-aa4e-c252e28793fa" /><br>
+<br>
+6. 
+
+

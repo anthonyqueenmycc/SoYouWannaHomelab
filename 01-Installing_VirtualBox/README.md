@@ -2,7 +2,7 @@
 The first step of creating a Homelab is to set up your hypervisor. In my class, we have opted to use VirtualBox due to it's wide compatibility with host and guest operating systems. <br>
 
 1. Download VirtualBox. <br>
-The first thing we need to do is go to <a href="https://www.virtualbox.org/" target="_blank">VirtualBox</a> and click on the big blue button for the downloads section.<br>
+The first thing we need to do is go to the VirtualBox webpage. Click <a href="https://www.virtualbox.org/" target="_blank"> HERE </a> to go to their page and then click on the big blue button for the downloads section. (Tip: If you hold down the Ctrl key when you click on the link, it will open in a new tab instead of replacing this page!)<br>
 <br>
 <img width="1920" height="919" alt="www.virtualbox.org" src="https://github.com/user-attachments/assets/2b09d376-ae95-4682-85cd-76a3049c7a6c" /><br>
 <br>
@@ -22,6 +22,7 @@ The first thing we need to do is go to <a href="https://www.virtualbox.org/" tar
 <br>
 <img width="371" height="241" alt="image" src="https://github.com/user-attachments/assets/8eba8bf9-f6da-405a-aa4e-c252e28793fa" /><br>
 <br>
+<section id="resume_install">
 6. 
 
 

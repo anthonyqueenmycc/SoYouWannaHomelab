@@ -31,4 +31,4 @@
 <br>
 <img width="481" height="301" alt="image" src="https://github.com/user-attachments/assets/1765c5d8-3a1a-4c2f-b2bc-4bb13a9f9e30" /><br>
 <br>
-9. You now have the Microsoft Visual C++ Redistributeable installed! Go ahead and launch the VirtualBox installer again (if you can't find it in your web browser, try checking your downloads folder!), then click <a href=https://github.com/anthonyqueenmycc/SoYouWannaHomelab/tree/0e484618b753e150e67e8aecb84051fb2c39790e/01-Installing_VirtualBox#resume_install> HERE </a> to return to the instructions for installing VirtualBox.
+9. You now have the Microsoft Visual C++ Redistributeable installed! Go ahead and launch the VirtualBox installer again (if you can't find it in your web browser, try checking your downloads folder!), then click <a href=https://github.com/anthonyqueenmycc/SoYouWannaHomelab/tree/0e484618b753e150e67e8aecb84051fb2c39790e/01-Installing_VirtualBox> HERE </a> to return to the instructions for installing VirtualBox.

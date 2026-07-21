@@ -94,4 +94,24 @@ Once you have filled all those fields out, go ahead and click "Continue".<br>
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9878f03-6475-4f9f-8c39-444a49cc5ed0" /><br>
 <br>
-24. Now you play the waiting game! It may take a while for the operating system to be installed to the virtual machine. Take this opportunity to work on some assignments!
+24. Now you play the waiting game! It may take a while for the operating system to be installed to the virtual machine. Take this opportunity to work on some assignments!<br>
+<br>
+25. You will receive a pop-up message letting you know once the installation has finished. Click "Restart Now".<br>
+<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfbb70bd-4097-4d8d-8eb4-f323e562fb35" /><br>
+<br>
+26. There will be a message on screen saying "Please remove the installtion mdeium, then press ENTER:". At the top of the window, click on "Devices", Then "Optical Drives", and finally "Remove Disk from Virtual Drive". (If the last option is greyed out, then the virtual machine automatically ejected the disk.) You may now press the "Enter" key and the machine will restart.<br>
+<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1d84db1-ebcd-4af4-8696-9238317838d9" /><br>
+<br>
+27. The virtual machine will restart and return to the login screen. Type in the password you created earlier (Hopefully Passw0rd), and press enter.<br>
+<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71101836-f2de-4035-b313-c4ebac80732f" /><br>
+<br>
+28. Congratulations! You have just created your first virtual machine! Treat it just like a real computer. Do your updates, and shut it off when you are not using it.<br>
+<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee07767f-2a26-4efb-ae13-1a4d20c471fa" /><br>
+<br>
+
+
+
